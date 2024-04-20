@@ -1,0 +1,5 @@
+In a RTOS environment ,For the current code we can add synchronization mechanisms(like mutex).
+If there is need to share memory in further driver development that also will be supported by RTOS. 
+
+WRT I2c API may be they can be simualted to provide actual hardcode values from hardware registers.
+
